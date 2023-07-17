@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 import org.example.domain.Employee;
 import org.example.domain.Department;
 
-public class JpaTest {
+public class JpaTestasda {
 
 	private EntityManager manager;
 
